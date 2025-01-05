@@ -1,4 +1,5 @@
 # atrum
+
 A physics-based FRC simulator with support for in-game robot building.
 
 > [!NOTE]
@@ -6,5 +7,13 @@ A physics-based FRC simulator with support for in-game robot building.
 
 # Changelog
 
-# 1/4/2025 9:19PM
+## 1/4/2025
+
+### 9:19PM
 Choose name to be `atrum`, literally means nothing that I know of.
+
+### 9:32PM
+Read SRP comparison and created a default URP 3D template.
+
+### 9:37PM
+Added .gitignore
