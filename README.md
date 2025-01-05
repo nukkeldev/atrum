@@ -17,3 +17,8 @@ Read SRP comparison and created a default URP 3D template.
 
 ### 9:37PM
 Added .gitignore
+
+## 1/5/2025
+
+### 12:12AM
+I hate exporting from CAD.
